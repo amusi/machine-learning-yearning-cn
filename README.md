@@ -1,11 +1,11 @@
 # machine-learning-yearning-cn
-吴恩达《Machine Learning Yearning》的中英文版（更新中）：[第1~第22章](https://github.com/amusi/machine-learning-yearning-cn/blob/master/Machine%20Learning%20Yearning%E6%9B%B4%E6%96%B0%E4%B8%AD(%E7%AC%AC1-22%E7%AB%A0).pdf)
+**吴恩达《Machine Learning Yearning》的中英文版（更新中）**：[第1~第27章](Machine_Learning_Yearning 第1-27章.pdf)
 
 官网：<http://www.mlyearning.org/>
 
 
 
-已发布的英文原文详见本库中的**官网**文件夹，我已经打包好最新的合集：[第1~第22章](https://github.com/amusi/machine-learning-yearning-cn/blob/master/Machine%20Learning%20Yearning%E6%9B%B4%E6%96%B0%E4%B8%AD(%E7%AC%AC1-22%E7%AB%A0).pdf)
+已发布的英文原文详见本库中的[官网](https://github.com/amusi/machine-learning-yearning-cn/tree/master/%E5%AE%98%E7%BD%91)文件夹，我已经打包好最新的合集：[第1~第27章](Machine_Learning_Yearning 第1-27章.pdf)
 
 
 
