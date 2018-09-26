@@ -1,20 +1,17 @@
 # machine-learning-yearning-cn
-**吴恩达《Machine Learning Yearning》的中英文版（更新中）**：[第1~第27章](Machine_Learning_Yearning 第1-27章.pdf)
+**吴恩达《Machine Learning Yearning》的中英文版（更新中）**：[第1~第57章](Machine Learning Yearning（by Andrew NG）.pdf)
 
-官网：<http://www.mlyearning.org/>
+官网：
+
+- <http://www.mlyearning.org/>
+- https://www.deeplearning.ai/machine-learning-yearning/
+
+TODO
+
+- [ ] 中文版正在整理，暂时未发布
 
 
-
-已发布的英文原文详见本库中的[官网](https://github.com/amusi/machine-learning-yearning-cn/tree/master/%E5%AE%98%E7%BD%91)文件夹，我已经打包好最新的合集：[第1~第27章](Machine_Learning_Yearning 第1-27章.pdf)
-
-
-
-TODO List
-
-- 中文版正在整理，暂时未发布
-
-  ​
-
+​
 
 
 ## 目录
@@ -99,7 +96,7 @@ Chapter 39. Weighting data
 
 Chapter 40. Generalizing from the training set to the dev set
 
-Chapter 41. Addressing Bias, and Variance, and Data Mismatch
+Chapete 41. Identifying Bias, Variance, and Data Mismatch Errors
 
 Chapter 42. Addressing data mismatch
 
@@ -117,16 +114,18 @@ Chapter 48. More end-to-end learning examples
 
 Chapter 49. Pros and cons of end-to-end learning
 
-Chapter 50. Learned sub-components
+Chapter 50. Choosing pipeline components: Data availability
 
-Chapter 51. Directly learning rich outputs
+Chapter 51. Choosing pipeline components: Task simplicity
 
-Chapter 52. Error Analysis by Parts
+Chapter 52. Directly learning rich outputs
 
-Chapter 53. Beyond supervised learning: What’s next?
+Chapter 53. Error Analysis by Parts
 
-Chapter 54. Building a superhero team - Get your teammates to read this
+Chapter 54. Beyond supervised learning: What’s next?
 
-Chapter 55. Big picture
+Chapter 55. Building a superhero team - Get your teammates to read this
 
-Chapter 56. Credits
+Chapter 56. Big picture
+
+Chapter 57. Credits
