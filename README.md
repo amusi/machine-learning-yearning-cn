@@ -1,17 +1,18 @@
 # machine-learning-yearning-cn
-**吴恩达《Machine Learning Yearning》的中英文版（更新中）**：[第1~第57章](Machine Learning Yearning（by Andrew NG）.pdf)
+**吴恩达《Machine Learning Yearning》的英文版完结**：[第1~第58章](Machine Learning Yearning 1-58（by Andrew NG）.pdf)
 
 官网：
 
 - <http://www.mlyearning.org/>
 - https://www.deeplearning.ai/machine-learning-yearning/
+- https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
 
 TODO
 
 - [ ] 中文版正在整理，暂时未发布
 
 
-​
+
 
 
 ## 目录
@@ -122,10 +123,12 @@ Chapter 52. Directly learning rich outputs
 
 Chapter 53. Error Analysis by Parts
 
-Chapter 54. Beyond supervised learning: What’s next?
+Chapter 54. Attributing error to one part 
 
-Chapter 55. Building a superhero team - Get your teammates to read this
+Chapter 55: General case of error attribution 
 
-Chapter 56. Big picture
+Chapter 56. Error analysis by parts and comparison to human-level performance 
 
-Chapter 57. Credits
+Chapter 57. Spotting a flawed ML pipeline 
+
+Chapter 58. Building a superhero team - Get your teammates to read this 
