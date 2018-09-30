@@ -7,11 +7,13 @@
 - https://www.deeplearning.ai/machine-learning-yearning/
 - https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
 
+原作者：Andrew NG
+
+申明：本文旨在传播知识，并无商业行为之意
+
 TODO
 
-- [ ] 中文版正在整理，暂时未发布
-
-
+- [ ] 中文版因为版权问题，暂时无法更新
 
 
 
